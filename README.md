@@ -1,5 +1,31 @@
-## Next.js App Router Course - Starter
+# Next.js learning tutorial
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## baseado na documetação do [next](https://nextjs.org) com [node](https://nodejs.org/en) versão v18.17.1
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### Aula 1
+
+#### clonando o repositório
+
+```js
+
+git clone "https://github.com/Ana-Alice-Honorio/dash-app-nextjs.git"
+
+```
+
+```js
+
+cd nextjs-dashboard
+
+```
+
+```js
+
+npm install
+
+```
+
+### Aula 2
+
+- Como adicionar um arquivo CSS global ao seu aplicativo
+- Duas formas diferentes de estilizar: módulos Tailwind e CSS
+- Como adicionar condicionalmente nomes de classes com o clsxpacote de utilitários
