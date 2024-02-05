@@ -29,3 +29,9 @@ npm install
 - Como adicionar um arquivo CSS global ao seu aplicativo
 - Duas formas diferentes de estilizar: módulos Tailwind e CSS
 - Como adicionar condicionalmente nomes de classes com o clsxpacote de utilitários
+
+### Aula 3
+
+- Como adicionar fontes personalizadas com next/font
+- Como adicionar imagens com next/image
+- Como fontes e imagens são otimizadas em Next.js
