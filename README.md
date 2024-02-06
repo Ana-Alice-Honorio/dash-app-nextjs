@@ -35,3 +35,10 @@ npm install
 - Como adicionar fontes personalizadas com next/font
 - Como adicionar imagens com next/image
 - Como fontes e imagens são otimizadas em Next.js
+
+### Aula 4
+
+- Crie as dashboardrotas usando roteamento do sistema de arquivos
+- Entenda a função das pastas e arquivos ao criar novos segmentos de rota
+- Crie um layout aninhado que possa ser compartilhado entre várias páginas do painel
+- Entenda o que são colocation, renderização parcial e layout raiz
