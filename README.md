@@ -48,3 +48,5 @@ npm install
 - Como usar o next/linkcomponente
 - Como mostrar um link ativo com o usePathname()gancho
 - Como funciona a navegação em Next.js
+
+### Aula 6
