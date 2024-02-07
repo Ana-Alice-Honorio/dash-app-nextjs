@@ -42,3 +42,9 @@ npm install
 - Entenda a função das pastas e arquivos ao criar novos segmentos de rota
 - Crie um layout aninhado que possa ser compartilhado entre várias páginas do painel
 - Entenda o que são colocation, renderização parcial e layout raiz
+
+### Aula 5
+
+- Como usar o next/linkcomponente
+- Como mostrar um link ativo com o usePathname()gancho
+- Como funciona a navegação em Next.js
