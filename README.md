@@ -50,3 +50,13 @@ npm install
 - Como funciona a navegação em Next.js
 
 ### Aula 6
+
+- Deploy na Vercel
+- Conexão com sql
+
+### Aula 7
+
+- Aprenda sobre algumas abordagens para busca de dados: APIs, ORMs, SQL, etc
+- Como os componentes do servidor podem ajudá-lo a acessar recursos de back-end com mais segurança
+- que são cascatas de rede
+- Como implementar a busca paralela de dados usando um padrão JavaScript
